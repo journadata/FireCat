@@ -34,7 +34,7 @@ The databases consulted are the following:
 Extra: 
 * [Fires by start time (1995-2023)](https://agricultura.gencat.cat/web/.content/06-medi-natural/incendis-forestals/enllacos-documents/estadistiques/fitxers-binaris/incendis-forestals-hora-inici-1995-2023.xlsx)
 
-## Overview of the data analysis process
+### Overview of the data analysis process
 
 I have been able to apply all the Python knowledge acquired during the first month of the course. This has included using the command line to access the Jupyter Notebooks, carrying out simple calculations on datasets using Python, and applying more complex functions such as concatenation and combining datasets with Pandas.
 Additionally, I have created maps using the DataWrapper tool, which I had already been using, but I have also learned how to utilise different tools such as the highlights and annotations. 
