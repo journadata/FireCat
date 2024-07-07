@@ -48,9 +48,8 @@ How ever I will include here where I took the data:
 The original code: 
 * [How to generate a clock chart using PLotly](https://stackoverflow.com/questions/72595317/is-it-possible-to-generate-a-clock-chart-using-plotly)
 
-* [The final result]
-
-A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)+. 
+* [The final result](https://github.com/journadata/FireCat/blob/main/newplot.png)
+ 
 
 ## Things I would've liked to do:
 
