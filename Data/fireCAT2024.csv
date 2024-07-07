@@ -1,0 +1,252 @@
+date,code_county,County,code_municipality,municipality,ha_trees,ha_notrees,ha_noforest,ha_forest
+01/01/2024,24,Osona,80266,"Brull, el",0.00,0.00,0.00,0.00
+01/01/2024,36,Tarragonès,431482,Tarragona,0.00,0.02,0.00,0.02
+02/01/2024,7,Bages,80983,Sant Salvador de Guardiola,1.15,0.00,0.00,1.15
+03/01/2024,6,Anoia,81614,Piera,0.00,0.00,0.00,0.00
+03/01/2024,34,Selva,171931,Sils,0.43,0.00,0.00,0.43
+03/01/2024,2,Alt Empordà,170010,Agullana,0.00,0.06,0.00,0.06
+03/01/2024,36,Tarragonès,431482,Tarragona,0.00,0.00,0.00,0.00
+04/01/2024,36,Tarragonès,431482,Tarragona,0.00,0.00,0.00,0.00
+04/01/2024,20,Gironès,170736,Fornells de la Selva,0.04,0.00,0.00,0.04
+06/01/2024,36,Tarragonès,431482,Tarragona,0.00,0.17,0.00,0.17
+07/01/2024,34,Selva,170084,Anglès,0.00,0.00,0.00,0.00
+07/01/2024,16,Conca de Barberà,430542,"Espluga de Francolí, l'",0.00,0.00,0.00,0.00
+08/01/2024,10,Baix Empordà,170221,"Bisbal d'Empordà, la",0.00,0.00,0.00,0.00
+08/01/2024,34,Selva,170084,Anglès,0.00,0.16,0.00,0.16
+08/01/2024,10,Baix Empordà,170340,Calonge i Sant Antoni,0.00,0.00,0.00,0.00
+08/01/2024,36,Tarragonès,430477,Constantí,0.00,1.35,0.00,1.35
+09/01/2024,34,Selva,170237,Blanes,0.02,0.00,0.00,0.02
+09/01/2024,10,Baix Empordà,170139,Begur,0.00,0.00,0.00,0.00
+10/01/2024,20,Gironès,171668,Sant Jordi Desvalls,0.00,0.02,0.00,0.02
+12/01/2024,14,Berguedà,80168,Bagà,0.00,0.04,0.00,0.04
+13/01/2024,36,Tarragonès,431444,"Secuita, la",0.00,0.00,0.00,0.00
+16/01/2024,9,Baix Ebre,430136,"Ametlla de Mar, l'",0.02,0.00,0.00,0.02
+16/01/2024,29,Priorat,430555,Falset,0.00,0.02,0.00,0.02
+17/01/2024,13,Barcelonès,81944,Sant Adrià de Besòs,0.00,0.01,0.00,0.01
+18/01/2024,10,Baix Empordà,171175,Palafrugell,0.00,0.02,0.00,0.02
+18/01/2024,34,Selva,170280,Brunyola i Sant Martí Sapresa,0.77,0.00,0.00,0.77
+22/01/2024,2,Alt Empordà,170754,Garrigàs,0.00,0.08,0.00,0.08
+23/01/2024,2,Alt Empordà,171582,Sant Climent Sescebes,0.00,0.30,0.00,0.30
+23/01/2024,15,Cerdanya,170947,Llívia,0.00,0.00,0.00,0.00
+24/01/2024,20,Gironès,170904,Llambilles,0.00,0.01,0.00,0.01
+24/01/2024,36,Tarragonès,431444,"Secuita, la",0.05,0.14,0.10,0.19
+25/01/2024,20,Gironès,171729,Sant Martí de Llémena,0.07,0.00,0.00,0.07
+25/01/2024,34,Selva,170280,Brunyola i Sant Martí Sapresa,0.59,0.00,0.00,0.59
+26/01/2024,21,Maresme,81939,Sant Iscle de Vallalta,0.01,0.00,0.00,0.01
+27/01/2024,3,Alt Penedès,82495,Santa Fe del Penedès,0.01,0.00,0.00,0.01
+28/01/2024,24,Osona,82476,Santa Eulàlia de Riuprimer,0.19,0.00,0.00,0.19
+28/01/2024,20,Gironès,170890,Llagostera,0.00,0.00,0.00,0.00
+31/01/2024,3,Alt Penedès,82270,Sant Martí Sarroca,0.00,0.05,0.00,0.05
+01/02/2024,16,Conca de Barberà,430862,Montblanc,0.00,0.20,0.00,0.20
+02/02/2024,15,Cerdanya,170947,Llívia,0.15,0.00,0.00,0.15
+04/02/2024,8,Baix Camp,430923,Mont-roig del Camp,0.00,0.08,0.00,0.08
+04/02/2024,3,Alt Penedès,80137,Avinyonet del Penedès,0.00,0.02,0.00,0.02
+04/02/2024,24,Osona,89019,Rupit i Pruit,0.03,0.00,0.00,0.03
+04/02/2024,40,Vallès Occidental,81799,Rellinars,0.20,0.07,0.00,0.27
+04/02/2024,6,Anoia,81038,Jorba,0.00,0.01,0.00,0.01
+04/02/2024,10,Baix Empordà,170340,Calonge i Sant Antoni,0.00,0.00,0.02,0.00
+06/02/2024,24,Osona,81173,"Masies de Voltregà, les",0.34,0.00,0.00,0.34
+07/02/2024,12,Baix Penedès,430287,"Bisbal del Penedès, la",0.00,0.00,0.00,0.00
+09/02/2024,20,Gironès,170792,Girona,0.00,0.01,0.00,0.01
+12/02/2024,12,Baix Penedès,431634,"Vendrell, el",0.00,2.76,0.39,2.76
+14/02/2024,31,Ripollès,170963,"Llosses, les",0.02,0.00,0.00,0.02
+14/02/2024,2,Alt Empordà,171582,Sant Climent Sescebes,0.00,0.25,0.00,0.25
+15/02/2024,9,Baix Ebre,439060,"Ampolla, l'",0.00,0.00,0.00,0.00
+16/02/2024,2,Alt Empordà,172214,Vilafant,0.00,0.70,0.00,0.70
+20/02/2024,7,Bages,80847,Fonollosa,0.03,0.00,0.00,0.03
+20/02/2024,31,Ripollès,170963,"Llosses, les",0.01,0.00,0.00,0.01
+20/02/2024,3,Alt Penedès,81228,Mediona,0.00,0.00,0.00,0.00
+21/02/2024,7,Bages,81136,Manresa,0.00,0.05,0.00,0.05
+21/02/2024,17,Garraf,80431,Canyelles,0.00,0.00,0.00,0.00
+22/02/2024,28,Pla de l'Estany,171371,Porqueres,0.02,0.00,0.00,0.02
+22/02/2024,37,Terra Alta,430640,Gandesa,0.00,0.02,0.00,0.02
+22/02/2024,42,Moianès,81287,Monistrol de Calders,0.00,0.10,0.00,0.10
+22/02/2024,37,Terra Alta,431750,Vilalba dels Arcs,0.02,0.00,0.20,0.02
+22/02/2024,1,Alt Camp,431613,Valls,0.09,0.00,0.00,0.09
+23/02/2024,17,Garraf,80431,Canyelles,0.00,0.00,0.00,0.00
+23/02/2024,14,Berguedà,82554,Santa Maria de Merlès,0.05,0.15,0.00,0.20
+24/02/2024,41,Vallès Oriental,80977,Gualba,0.00,0.00,0.00,0.00
+24/02/2024,8,Baix Camp,431270,Riudecanyes,0.00,0.98,0.00,0.98
+24/02/2024,11,Baix Llobregat,80728,Corbera de Llobregat,0.00,0.00,0.00,0.00
+24/02/2024,8,Baix Camp,430075,"Aleixar, l'",0.00,0.10,0.00,0.10
+25/02/2024,3,Alt Penedès,82732,Subirats,0.00,0.02,0.00,0.02
+26/02/2024,16,Conca de Barberà,430614,Forès,0.07,0.00,0.00,0.07
+26/02/2024,1,Alt Camp,431613,Valls,0.00,0.54,0.00,0.54
+26/02/2024,37,Terra Alta,431068,"Pinell de Brai, el",0.06,0.00,0.00,0.06
+27/02/2024,40,Vallès Occidental,82055,Sant Cugat del Vallès,0.00,0.00,0.00,0.00
+28/02/2024,6,Anoia,81022,Igualada,0.00,0.05,0.00,0.05
+29/02/2024,21,Maresme,81939,Sant Iscle de Vallalta,0.00,0.00,0.00,0.00
+29/02/2024,34,Selva,171030,Maçanet de la Selva,0.00,0.00,0.00,0.00
+01/03/2024,6,Anoia,80636,Castellolí,0.09,0.00,0.00,0.09
+03/03/2024,9,Baix Ebre,439060,"Ampolla, l'",0.00,0.04,0.00,0.04
+03/03/2024,9,Baix Ebre,431495,Tivenys,0.00,0.00,0.00,0.00
+05/03/2024,3,Alt Penedès,82732,Subirats,0.00,0.04,0.00,0.04
+05/03/2024,8,Baix Camp,430038,"Albiol, l'",0.00,0.00,0.00,0.00
+05/03/2024,6,Anoia,83020,Vilanova del Camí,0.12,0.00,0.00,0.12
+05/03/2024,6,Anoia,80253,"Bruc, el",0.69,0.00,0.02,0.69
+06/03/2024,6,Anoia,81859,Rubió,2.16,0.72,0.00,2.88
+06/03/2024,33,Segrià,252115,Sudanell,0.32,0.00,0.00,0.32
+07/03/2024,21,Maresme,81213,Mataró,0.00,0.01,0.00,0.01
+07/03/2024,38,Urgell,250501,Bellpuig,0.00,0.00,0.00,0.00
+12/03/2024,17,Garraf,82704,Sitges,0.00,0.00,0.00,0.00
+15/03/2024,1,Alt Camp,431704,Vila-rodona,0.30,0.00,0.00,0.30
+17/03/2024,11,Baix Llobregat,83015,Viladecans,0.00,0.01,0.00,0.01
+18/03/2024,38,Urgell,250030,Agramunt,0.00,0.39,0.00,0.39
+19/03/2024,21,Maresme,82845,Tordera,0.00,0.00,0.00,0.00
+20/03/2024,16,Conca de Barberà,430862,Montblanc,0.02,0.00,0.00,0.02
+20/03/2024,30,Ribera d'Ebre,431212,Rasquera,0.04,0.00,0.00,0.04
+20/03/2024,24,Osona,82418,Sant Sadurní d'Osormort,0.00,0.00,0.00,0.00
+20/03/2024,38,Urgell,259025,Sant Martí de Riucorb,0.00,0.60,0.00,0.60
+24/03/2024,10,Baix Empordà,171181,Palamós,0.00,0.03,0.00,0.03
+28/03/2024,24,Osona,83036,Vilanova de Sau,0.03,0.00,0.00,0.03
+29/03/2024,20,Gironès,170209,Bescanó,1.33,0.00,0.02,1.33
+30/03/2024,3,Alt Penedès,81228,Mediona,0.00,0.00,0.00,0.00
+30/03/2024,3,Alt Penedès,81228,Mediona,0.02,0.00,0.00,0.02
+02/04/2024,9,Baix Ebre,431554,Tortosa,0.00,0.10,0.04,0.10
+02/04/2024,9,Baix Ebre,431331,Roquetes,0.14,1.50,0.50,1.64
+03/04/2024,13,Barcelonès,81944,Sant Adrià de Besòs,0.00,0.00,0.00,0.00
+03/04/2024,34,Selva,170950,Lloret de Mar,0.02,0.00,0.00,0.02
+04/04/2024,36,Tarragonès,430477,Constantí,0.00,0.21,0.00,0.21
+05/04/2024,19,Garrotxa,171143,Olot,0.00,0.02,0.00,0.02
+06/04/2024,29,Priorat,430691,Gratallops,0.00,0.03,0.00,0.03
+08/04/2024,1,Alt Camp,431135,"Pont d'Armentera, el",0.02,0.00,0.00,0.02
+08/04/2024,33,Segrià,252326,Torres de Segre,0.14,0.00,0.00,0.14
+09/04/2024,9,Baix Ebre,431042,"Perelló, el",1.41,0.49,1.91,1.90
+10/04/2024,9,Baix Ebre,431495,Tivenys,0.00,0.50,0.00,0.50
+10/04/2024,4,Alt Urgell,250447,Bassella,0.04,0.00,0.00,0.04
+11/04/2024,7,Bages,81136,Manresa,0.10,0.00,0.00,0.10
+11/04/2024,3,Alt Penedès,80654,Castellví de la Marca,1.43,0.02,0.33,1.45
+11/04/2024,30,Ribera d'Ebre,430607,Flix,0.06,0.06,0.00,0.12
+12/04/2024,25,Pallars Jussà,252154,Talarn,0.00,0.04,0.01,0.04
+12/04/2024,33,Segrià,251207,Lleida,0.02,0.00,0.00,0.02
+13/04/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.01,0.00,0.01
+13/04/2024,3,Alt Penedès,80919,Gelida,0.00,0.27,0.00,0.27
+13/04/2024,3,Alt Penedès,82401,Sant Sadurní d'Anoia,0.00,0.19,0.00,0.19
+13/04/2024,30,Ribera d'Ebre,431212,Rasquera,0.10,0.10,0.00,0.20
+13/04/2024,30,Ribera d'Ebre,431508,Tivissa,0.05,0.05,0.00,0.10
+14/04/2024,33,Segrià,251207,Lleida,0.63,0.00,0.00,0.63
+14/04/2024,33,Segrià,251207,Lleida,0.03,0.01,0.00,0.04
+14/04/2024,3,Alt Penedès,80919,Gelida,0.35,0.47,0.05,0.82
+14/04/2024,6,Anoia,82508,Santa Margarida de Montbui,0.00,0.02,0.00,0.02
+14/04/2024,33,Segrià,251207,Lleida,0.20,0.00,0.00,0.20
+14/04/2024,9,Baix Ebre,439018,Deltebre,0.00,0.08,0.00,0.08
+15/04/2024,27,Pla d'Urgell,252521,Vila-sana,0.00,3.63,1.53,3.63
+15/04/2024,20,Gironès,170792,Girona,0.00,0.00,0.00,0.00
+16/04/2024,8,Baix Camp,430923,Mont-roig del Camp,0.00,0.04,0.00,0.04
+16/04/2024,33,Segrià,251207,Lleida,4.48,1.23,0.00,5.71
+17/04/2024,36,Tarragonès,431665,Vilallonga del Camp,0.00,0.33,0.00,0.33
+17/04/2024,36,Tarragonès,431665,Vilallonga del Camp,0.00,0.09,0.00,0.09
+17/04/2024,32,Segarra,251919,Sanaüja,0.00,0.07,0.00,0.07
+18/04/2024,32,Segarra,251327,Massoteres,0.44,0.33,0.00,0.78
+18/04/2024,28,Pla de l'Estany,170583,Crespià,0.02,0.00,0.00,0.02
+18/04/2024,33,Segrià,251207,Lleida,0.10,0.08,0.04,0.18
+19/04/2024,29,Priorat,430691,Gratallops,0.03,0.03,0.07,0.06
+20/04/2024,36,Tarragonès,431711,Vila-seca,0.00,0.84,0.00,0.84
+20/04/2024,20,Gironès,170448,Cassà de la Selva,0.06,0.00,0.00,0.06
+21/04/2024,7,Bages,80538,Castellbell i el Vilar,0.01,0.00,0.00,0.01
+21/04/2024,15,Cerdanya,251272,Lles de Cerdanya,0.02,0.00,0.00,0.02
+21/04/2024,9,Baix Ebre,431554,Tortosa,0.00,0.07,0.00,0.07
+21/04/2024,5,Alta Ribagorça,250432,"Vall de Boí, la",0.00,3.14,0.00,3.14
+22/04/2024,33,Segrià,251207,Lleida,1.54,0.14,0.20,1.68
+22/04/2024,38,Urgell,259025,Sant Martí de Riucorb,0.00,0.50,0.00,0.50
+23/04/2024,33,Segrià,252326,Torres de Segre,0.33,0.00,0.00,0.33
+24/04/2024,17,Garraf,82310,Sant Pere de Ribes,0.00,0.00,0.00,0.00
+24/04/2024,2,Alt Empordà,170669,Figueres,0.18,0.02,0.05,0.20
+26/04/2024,34,Selva,170097,Arbúcies,0.08,0.00,0.00,0.08
+26/04/2024,37,Terra Alta,431107,"Pobla de Massaluca, la",2.19,1.43,0.02,3.62
+28/04/2024,21,Maresme,80095,Argentona,0.00,0.00,0.00,0.00
+28/04/2024,9,Baix Ebre,431021,Paüls,0.15,0.00,0.00,0.15
+02/05/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.00,0.00,0.00
+02/05/2024,37,Terra Alta,430419,Caseres,0.00,0.53,0.00,0.53
+02/05/2024,9,Baix Ebre,439060,"Ampolla, l'",0.00,0.03,0.00,0.03
+03/05/2024,17,Garraf,80431,Canyelles,0.00,0.00,0.00,0.00
+04/05/2024,8,Baix Camp,430075,"Aleixar, l'",0.04,0.00,0.00,0.04
+04/05/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.00,0.00,0.00
+05/05/2024,9,Baix Ebre,430521,Xerta,0.00,0.00,0.00,0.00
+06/05/2024,30,Ribera d'Ebre,431212,Rasquera,0.02,0.00,0.00,0.02
+07/05/2024,37,Terra Alta,430712,Horta de Sant Joan,4.47,2.57,1.17,7.04
+07/05/2024,18,Garrigues,252249,"Torms, els",0.00,0.02,0.02,0.02
+08/05/2024,38,Urgell,250740,Ciutadilla,0.00,0.78,0.00,0.78
+08/05/2024,41,Vallès Oriental,80235,Bigues i Riells del Fai,0.05,0.00,0.00,0.05
+08/05/2024,18,Garrigues,250096,"Albi, l'",0.00,0.03,0.00,0.03
+08/05/2024,3,Alt Penedès,81458,Olèrdola,0.00,0.00,0.00,0.00
+08/05/2024,17,Garraf,80431,Canyelles,0.00,0.00,0.00,0.00
+09/05/2024,3,Alt Penedès,83054,Vilafranca del Penedès,0.00,0.07,0.00,0.07
+09/05/2024,20,Gironès,172155,Vilablareix,0.04,0.00,0.02,0.04
+09/05/2024,13,Barcelonès,82457,Santa Coloma de Gramenet,0.00,0.00,0.00,0.00
+09/05/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.00,0.00,0.00
+09/05/2024,20,Gironès,170792,Girona,0.00,0.00,0.00,0.00
+10/05/2024,9,Baix Ebre,431554,Tortosa,0.08,0.00,0.00,0.08
+10/05/2024,20,Gironès,170792,Girona,0.00,0.00,0.00,0.00
+10/05/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.00,0.00,0.00
+10/05/2024,41,Vallès Oriental,81810,"Roca del Vallès, la",0.00,0.06,0.00,0.06
+10/05/2024,6,Anoia,80484,Carme,0.14,0.00,0.00,0.14
+10/05/2024,40,Vallès Occidental,81846,Rubí,0.00,0.06,0.00,0.06
+10/05/2024,7,Bages,81402,Navarcles,0.45,0.00,0.00,0.45
+10/05/2024,30,Ribera d'Ebre,430607,Flix,0.00,0.60,0.00,0.60
+10/05/2024,33,Segrià,251207,Lleida,0.00,0.20,0.00,0.20
+10/05/2024,3,Alt Penedès,81458,Olèrdola,0.01,0.00,0.00,0.01
+10/05/2024,3,Alt Penedès,81458,Olèrdola,0.00,0.00,0.00,0.00
+11/05/2024,41,Vallès Oriental,81810,"Roca del Vallès, la",0.80,0.00,0.00,0.80
+11/05/2024,30,Ribera d'Ebre,430939,Móra d'Ebre,0.03,0.00,0.00,0.03
+11/05/2024,41,Vallès Oriental,81075,Lliçà d'Amunt,0.00,0.00,0.00,0.00
+11/05/2024,40,Vallès Occidental,81252,Montcada i Reixac,0.00,0.00,0.00,0.00
+11/05/2024,33,Segrià,250077,Albatàrrec,0.80,0.00,0.00,0.80
+11/05/2024,32,Segarra,259059,Ribera d'Ondara,0.00,0.34,0.00,0.34
+11/05/2024,37,Terra Alta,430228,Batea,7.80,0.69,0.31,8.49
+11/05/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.00,0.00,0.00
+11/05/2024,40,Vallès Occidental,82384,Sant Quirze del Vallès,0.00,0.00,0.00,0.00
+12/05/2024,6,Anoia,80484,Carme,0.21,0.00,0.00,0.21
+12/05/2024,20,Gironès,171557,Salt,0.00,0.09,0.00,0.09
+12/05/2024,41,Vallès Oriental,82021,Sant Celoni,0.01,0.00,0.00,0.01
+13/05/2024,9,Baix Ebre,430136,"Ametlla de Mar, l'",0.04,0.00,0.00,0.04
+13/05/2024,41,Vallès Oriental,82763,Tagamanent,0.03,0.00,0.00,0.03
+13/05/2024,18,Garrigues,251692,"Pobla de Cérvoles, la",0.00,0.20,0.00,0.20
+13/05/2024,20,Gironès,170792,Girona,0.00,0.00,0.00,0.00
+13/05/2024,23,Noguera,250426,"Baronia de Rialb, la",0.40,0.00,0.00,0.40
+13/05/2024,8,Baix Camp,431166,Prades,0.09,0.00,0.00,0.09
+13/05/2024,25,Pallars Jussà,251155,Isona i Conca Dellà,0.00,0.13,0.00,0.13
+14/05/2024,9,Baix Ebre,431554,Tortosa,0.00,0.02,0.00,0.02
+14/05/2024,9,Baix Ebre,430136,"Ametlla de Mar, l'",0.00,0.01,0.00,0.01
+15/05/2024,33,Segrià,250169,Alguaire,0.00,0.05,0.00,0.05
+16/05/2024,3,Alt Penedès,82362,Sant Quintí de Mediona,0.00,0.00,0.00,0.00
+18/05/2024,9,Baix Ebre,431554,Tortosa,0.05,0.00,0.00,0.05
+21/05/2024,23,Noguera,250349,Artesa de Segre,0.00,0.04,0.00,0.04
+24/05/2024,17,Garraf,80431,Canyelles,0.00,0.00,0.00,0.00
+24/05/2024,17,Garraf,80431,Canyelles,0.00,0.00,0.00,0.00
+26/05/2024,14,Berguedà,82687,Cercs,0.00,0.00,0.00,0.00
+28/05/2024,36,Tarragonès,431114,"Pobla de Montornès, la",0.00,0.20,0.00,0.20
+28/05/2024,9,Baix Ebre,431554,Tortosa,1.86,72.02,15.98,73.88
+28/05/2024,40,Vallès Occidental,81878,Sabadell,0.00,0.02,0.00,0.02
+30/05/2024,8,Baix Camp,430332,Botarell,0.09,0.00,0.51,0.09
+30/05/2024,30,Ribera d'Ebre,430995,"Palma d'Ebre, la",3.74,3.94,0.11,7.68
+01/06/2024,33,Segrià,251207,Lleida,0.00,0.05,0.00,0.05
+01/06/2024,15,Cerdanya,250518,Bellver de Cerdanya,0.00,0.04,0.00,0.04
+01/06/2024,38,Urgell,250740,Ciutadilla,0.00,0.05,0.00,0.05
+01/06/2024,13,Barcelonès,80193,Barcelona,0.00,0.00,0.00,0.00
+01/06/2024,8,Baix Camp,431270,Riudecanyes,0.17,1.09,1.22,1.26
+02/06/2024,34,Selva,171030,Maçanet de la Selva,0.00,0.00,0.00,0.00
+02/06/2024,12,Baix Penedès,431634,"Vendrell, el",0.10,0.00,0.00,0.10
+05/06/2024,17,Garraf,82310,Sant Pere de Ribes,0.00,0.00,0.00,0.00
+07/06/2024,40,Vallès Occidental,81252,Montcada i Reixac,0.02,0.02,0.00,0.03
+07/06/2024,18,Garrigues,250560,Bovera,0.00,0.00,0.00,0.00
+08/06/2024,6,Anoia,81859,Rubió,0.00,0.07,0.00,0.07
+08/06/2024,10,Baix Empordà,170340,Calonge i Sant Antoni,0.05,0.00,0.00,0.05
+18/06/2024,9,Baix Ebre,439060,"Ampolla, l'",0.00,0.01,0.00,0.01
+19/06/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.02,0.00,0.02
+20/06/2024,18,Garrigues,252537,"Vilosell, el",0.02,0.00,0.00,0.02
+22/06/2024,7,Bages,80538,Castellbell i el Vilar,0.00,0.00,0.00,0.00
+23/06/2024,24,Osona,82750,Tavèrnoles,0.07,0.00,0.00,0.07
+24/06/2024,40,Vallès Occidental,82900,Ullastrell,0.00,0.00,0.00,0.00
+24/06/2024,3,Alt Penedès,81228,Mediona,0.00,0.20,0.00,0.20
+25/06/2024,41,Vallès Oriental,82482,Santa Eulàlia de Ronçana,0.00,0.00,0.00,0.00
+25/06/2024,23,Noguera,250349,Artesa de Segre,0.00,1.87,9.38,1.87
+25/06/2024,6,Anoia,82264,Sant Martí de Tous,0.11,0.00,0.00,0.11
+26/06/2024,30,Ribera d'Ebre,430653,Garcia,0.01,0.00,0.00,0.01
+26/06/2024,8,Baix Camp,431270,Riudecanyes,0.27,0.00,0.04,0.27
+26/06/2024,40,Vallès Occidental,83008,Viladecavalls,0.00,0.04,0.00,0.04
+27/06/2024,16,Conca de Barberà,430862,Montblanc,13.10,2.20,10.60,15.30
+28/06/2024,40,Vallès Occidental,81878,Sabadell,0.01,0.00,0.00,0.01
+28/06/2024,12,Baix Penedès,431634,"Vendrell, el",0.00,0.04,0.00,0.04
+29/06/2024,32,Segarra,259059,Ribera d'Ondara,0.00,0.00,0.00,0.00
+29/06/2024,12,Baix Penedès,431634,"Vendrell, el",0.00,0.01,0.00,0.01
