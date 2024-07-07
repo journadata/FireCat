@@ -1,4 +1,4 @@
-# Candy ratings central
+# Analysing 30 years of forest fires in Catalonia
 
 This is a repository about the webpage about the fires in Catalonia created by Beatriz Gálvez.
 
